@@ -1,3 +1,5 @@
+# Pictures에 있는 사진 갤러리
+# 사진은 _site > images > picpic > Gallery 안에 넣음
 - title: pic1_description
   image: 2022_busankwater.jpg
 - title: pic1_description

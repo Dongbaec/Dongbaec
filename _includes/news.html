@@ -1,11 +1,11 @@
 
-<div class="well" style ="position:relative; background:none; border:none; box-shadow:none; padding: 20px 0;">
-    <h4 style= "font-weight:bold; font-size: 22px; border-bottom: 2px solid #e7e7e7; padding: 5px 0;">
+<div class="well" >
+    <h4 style= "font-weight:bold; font-size: 22px; border-bottom: 2px solid #3b3b3b; padding: 5px 0;">
         <span style="border-bottom: 4.5px solid #000; padding-right: 3px; padding-bottom: 0.5px;">News</span></h4>
 
     {% for article in site.data.fix_news limit:9 %}
     <a href="{{article.link}}" style="color: #333333">
-        <div style="display: flex; flex-direction:column; margin: 13px 0 10px;">
+        <div style="display: flex; flex-direction:column; margin: 13px 0 10px; ">
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{article.img}}" 
                 style="width: 95%; height: 195px; align-self: center;">
             <div style="padding-top: 3px;">
@@ -18,7 +18,7 @@
     
     {% for article in site.data.news limit:9 %}
     {{ article.date }}
-    <a href="{{article.link}}" class="news-article">
+    <a href="{{article.link}}" class="news-article"> <!--고정 뉴스 fix_news와 연결됨-->
         <p>{{ article.headline }}</p>
     </a>
     {% endfor %}

@@ -1,11 +1,16 @@
-- name: 노성진 (Seong Jin Noh)
-  photo: seongjin_noh.JPG
+# Team 아래 있는 Principal Investigator 에 있는 교수님
+- name: 김원국 (Wonkook Kim)
+  photo: Wonkook_Kim.jpg
   info: 조교수 (Assistant professor)
-  email: seongjin.noh@kumoh.ac.kr
+  email: wonkook@pusan.ac.kr
+  ORCID: https://orcid.org/0000-0002-3237-9794
+  researcher: AAX-4099-2021
+  BS: Seoul National Univ. (Civil Engineering)
+  M.S/Ph.D : Purdue University (Civil Eng. Geomatics)
   number_educ: 5
-  education1: Bachelor, Seoul National University
-  education2: Master, Seoul National University
-  education3: PhD, Kyoto University
-  education4: Research Assistant Professor, University of Texas at Arlington)
-  education5: 수석연구원 한국건설기술연구원 (KICT)
+  education1: Seoul National Univ. (Civil Engineering)
+  education2: Purdue University (Civil Eng. Geomatics)
+  education3: "Research Associate : Univ. of Maryland (메릴랜드 주립대)"
+  education4: "Visiting Scientist : NOAA/NESDIS, US  (미 해양대기청)"
+  education5: "Senior Researcher : KIOST, Korea (Ocean Satellite Center)   한국해양과학기술원, 해양위성센터"
 

@@ -1,7 +1,7 @@
 ---
-title: "Noh Lab - Publications"
+title: "QUREOS Lab - Publications"
 layout: gridlay
-excerpt: "Noh Lab -- Publications."
+excerpt: "QUREOS Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

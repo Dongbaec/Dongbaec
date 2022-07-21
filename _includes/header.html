@@ -8,14 +8,16 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Noh Lab @ kit</a>
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">QUREOS Lab @ Pusan National University</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/pictures">Pictures</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li><!--/publications-->
+		<!--{{ site.baseurl }} 뒤에 _pages 아래 md파일을 호출 하는 거라고 보면 됨 md 파일은 permalink: 뒤에 /이름/ 이걸 해주면 되는 것 같음-->
+		<li><a href="{{ site.url }}{{ site.baseurl }}/pictures">Pictures</a></li> <!--href 뒤에 /team 같은 것이 진짜 주소고 뒤에 적은 영어는 단순히 이름만 표기 해주는 것이다.-->
+		<li><a href="{{ site.url }}{{ site.baseurl }}/aoa.html">Classes</a></li>
 	  </ul>
 	</div>
   </div>

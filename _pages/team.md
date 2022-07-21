@@ -1,7 +1,7 @@
 ---
-title: "Noh Lab - Team"
+title: "QUREOS Lab - Team"
 layout: gridlay
-excerpt: "Noh Lab: Team members"
+excerpt: "QUREOS Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -20,11 +20,18 @@ permalink: /team/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
-<div class="col-sm-6 clearfix">
+<!--교수님 정보 표시 위치-->
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4 style = "font-weight : bold;">{{ member.name }}</h4> 
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>
+    {{ member.info }}
+    <br>email: <{{ member.email }}>
+    <br>ORCID: <{{ member.ORCID }}>
+    <br>Web of Science ResearcherID: {{ member.researcher }}
+  </i>
+  
+ 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -72,7 +79,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+<!--대학원생 정보 표시 위치 -->
 <br>
 ## PhD and Master Students
 {% assign number_printed = 0 %}
@@ -84,7 +91,7 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-8 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4 style = "font-weight : bold;">{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
@@ -135,7 +142,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+<!--대학생 정보 표시 위치 -->
 <br>
 ## Undergraduate Student
 {% assign number_printed = 0 %}

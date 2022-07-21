@@ -1,55 +1,22 @@
-- date: 2022-05-20
-  headline: "Bomi and Hyeonjin received the Best Presentation Paper Award at the 2022 KWRA Academic Presentation Contest."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2022-05
-  headline: "Bomi's paper is accepted and published by Korea Water Resources Association (KWRA)."
-  link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002843493"
-  
-- date: 2022-04
-  headline: "Our lab was selected for the Digital twin element technology development research for integrated water management."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2022-03
-  headline: "Welcome! Garim, Songhee and Sohyun joined Noh Lab as Master students."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2022-03
-  headline: "Noh Lab official page is open."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2022-02-21 to 22
-  headline: "We conducted the 2022 Undergraduate Student Workshop."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2022-02-14 to 16
-  headline: "We conducted the 2022 Graduate Student Workshop."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2022-01
-  headline: "Welcome! Jemu, Yaewon and Hyuna joined Noh Lab as undergraduate research students."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2021-11
-  headline: "Our lab was selected for the Development of artificial intelligence-based smart city water circulation and flood analysis technology."
-  link: "https://cyber-hydrology.github.io/allnews.html"
+# 뉴스 적는 칸
+# - date: 
+#   headline: 
+#   link: 
 
-- date: 2021-03
-  headline: "Our lab was selected for the Development of high-fidelity probabilistic flood modeling techniques using parallel computing and machine learning."
-  link: "https://cyber-hydrology.github.io/allnews.html"
+# 최근 뉴스를 위로 올려주세요.
+
+- date: 2022-07-20
+  headline: "QUREOS github 웹사이트 구현 성공"
+  link: https://github.com/Dongbaec/Dongbaec.github.io
   
-- date: 2021-03
-  headline: "Welcome! Songhee joined Noh Lab as a undergraduate research student."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2021-01
-  headline: "Welcome! Garim joined Noh Lab as a undergraduate research student."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2021-01
-  headline: "Welcome! Bomi and Hyeonjin joined Noh Lab as Master students."
-  link: "https://cyber-hydrology.github.io/allnews.html"
-  
-- date: 2019-09
-  headline: "Noh Lab started."
-  link: "https://cyber-hydrology.github.io/allnews.html"
+- date: 2022-05-02
+  headline: "서해해경청, 고정익 항공 임무 협헙체계 구축" 
+  link: https://n.news.naver.com/article/008/0004740735?fbclid=IwAR07EbcByg70-yemKcPSTk5BuMyFaWqNYgOZ4SFcju78qDX5hwVVW_rmC5c
+
+- date: 2021-11-17
+  headline: "서해해경청 무안항공대, 부산대 김원국 교수와 해상 표류자 수색 역량 강화" 
+  link: https://n.news.naver.com/article/001/0012800104
+
+- date: 2021-06-08
+  headline: "위성, 드론 활용해 우리나라 해양과 산림을 손바닥 보듯" 
+  link: http://www.issuemaker.kr/news/articleView.html?idxno=33303

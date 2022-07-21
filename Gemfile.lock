@@ -43,9 +43,10 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (>= 3.6.3)
 
 BUNDLED WITH
-   1.11.2
+   2.3.18

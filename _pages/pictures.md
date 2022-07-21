@@ -1,7 +1,7 @@
 ---
-title: "Noh Lab - Pictures"
+title: "QUREOS Lab - Pictures"
 layout: piclay
-excerpt: "Noh Lab -- Pictures"
+excerpt: "QUREOS Lab -- Pictures"
 permalink: /pictures/
 ---
 
