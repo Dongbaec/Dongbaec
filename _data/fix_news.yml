@@ -1,4 +1,8 @@
-- date: 2022-06
-  headline: "Intelligent Metabus Urban Environmental Safety Research Institute Project (Joint Study with Pusan National University)"
-  img: KWRA-2022-lab.png
-  link: "https://www.kumoh.ac.kr/ko/sub01_05_02.do?mode=view&articleNo=381121"
+# 홈 뉴스 최상단 고정 뉴스
+# 필요없어지면 삭제하기
+# 주석처리해두면 그냥 없어지네
+
+#- date: 2022-06
+ # headline: "Intelligent Metabus Urban Environmental Safety Research Institute Project (Joint Study with Pusan National University)"
+  #img: KWRA-2022-lab.png
+  #link: "https://www.kumoh.ac.kr/ko/sub01_05_02.do?mode=view&articleNo=381121"

@@ -142,7 +142,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-<!--대학생 정보 표시 위치 -->
+<!--학부연구생 정보 표시 위치 -->
 <br>
 ## Undergraduate Student
 {% assign number_printed = 0 %}

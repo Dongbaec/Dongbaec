@@ -17,8 +17,11 @@
 #    display:  
 #  highlight: 0
 #  news2:
-# Publications 에 적혀있는 내용.
 
+
+# Publications 에 적혀있는 내용.
+# highlight: 0 은 Full List로 들어가고 highlight: 1은 Highlights로 들어감
+# 둘의 차이는 사진이랑 설명이 같이 들어가느냐 마느냐 하는 것이다.
 - title: "Ensemble streamflow data assimilation using WRF-Hydro and DART: novel localization and inflation techniques applied to Hurricane Florence flooding"
   image: Ensemble_streamflow.png
   description: This study presents a general data assimilation framework that aims to improve flood predictions in channel routing models.
@@ -26,7 +29,7 @@
   link:
     url: https://hess.copernicus.org/articles/25/5315/2021/
     display:  EGU 25, 5315 (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "High-resolution modeling and prediction of urban floods using WRF-Hydro and data assimilation"

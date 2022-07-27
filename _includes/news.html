@@ -14,16 +14,17 @@
             </div>
         </div>
     </a>
+
     {% endfor %}
     
     {% for article in site.data.news limit:9 %}
     {{ article.date }}
-    <a href="{{article.link}}" class="news-article"> <!--고정 뉴스 fix_news와 연결됨-->
+    <a href="{{article.link}}" class="news-article"> <!--고정 뉴스 fix_news와 연결됨 html은 중복 주석을 사용 할 수 없음-->
         <p>{{ article.headline }}</p>
-    </a>
+    </a> 
     {% endfor %}
 
-    <h4 style="position:absolute; top: 25px; right: 10px; fontweight: bold;">
+    <h4 style="position:absolute; top: 25px; right: 10px; font-weight: bold;"> <!--fontweight라고 오타가 나와있었음, html은 오류가 있어도 작동하는 것만 표현해줌 -->
         <a href="{{ site.url }}{{ site.baseurl }}/allnews.html" class="news-plus-button" >+</a>
     </h4>
 </div>

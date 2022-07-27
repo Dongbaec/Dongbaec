@@ -11,22 +11,114 @@
 # Team 에 있는 학부 연구생 소개
 
 
-- name: 이예원 (Yaewon Lee) 
-  photo: rock.jpg
-  info: 학부연구생 (Undergraduate Student), started March 2022
-  email: 20180875@kumoh.ac.kr
-  number_educ: 0
-  education1: 
+- name: 이종혁 (Jong Hyuk Lee)
+  photo: Jong_Hyuk_Lee.jpg
+  info: Undergraduate Research Student (2019.7 ~ )
+  email: ljh38633863@gmail.com
+  number_educ: 1
+  education1: "Research Interest : Absolute Radiometric Calibration of Thermal Infrared Band,
+          Retrieval of Surface Temperature Using Satellite"
   education2:
   education3:
   education4:
 
-- name: 우현아 (Hyuna Woo) 
+- name: 이시훈 (Lee sihun)
   photo: rock.jpg
-  info: 학부연구생 (Undergraduate Student), started March 2022
-  email: wha022@kumoh.ac.kr
-  number_educ: 0
+  info: Undergraduate Research Student
+  email: bantid6862@gmail.com
+  number_educ: 
   education1: 
   education2: 
+  education3:
+  education4:
+
+- name: 김필립 (Kim philip)
+  photo: Phil.jpg
+  info: Undergraduate Research Student
+  email: philip1401@pusan.ac.kr
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 도영주 (Do young ju)
+  photo: Do_young_ju.jpg
+  info: Undergraduate Research Student (2021.07 ~ )
+  email: inick11@pusan.ac.kr
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 조준영 (Jo Joon Young)
+  photo: rock.jpg
+  info: Undergraduate Research Student (2022. 07 ~)
+  email:
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 이민영 (Lee Min Young)
+  photo: Lee_Min_Young.jpg
+  info: Undergraduate Research Student (2022. 07 ~)
+  email: andcl1018@pusan.ac.kr
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 박소현 (SoHyeon Park)
+  photo: SoHyeon_Park.jpg
+  info: Undergraduate Research Student (2022. 07 ~)
+  email: sohyeon056@naver.com
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 정유진 (Jeong Yujin)
+  photo: Jeong_Yujin.jpg
+  info: Undergraduate Research Student
+  email: ico625@pusan.ac.kr
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 이용탁 (Yongtak Lee)
+  photo: rock.jpg
+  info: Undergraduate Research Student (2022. 07 ~)
+  email: glady2000@naver.com
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: 강경웅 (Kang Kyung Woong)
+  photo: rock.jpg
+  info: Undergraduate Research Student (2022. 07 ~)
+  email: rkdruddndl7@pusan.ac.kr
+  number_educ:
+  education1:
+  education2:
+  education3:
+  education4:
+
+
+- name:
+  photo: rock.jpg
+  info:
+  email:
+  number_educ:
+  education1:
+  education2:
   education3:
   education4:

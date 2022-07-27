@@ -11,7 +11,7 @@
 # Team 아래 pd.h students 에 소개된 사람들
 
 - name: 백승일 (Seung-il Baek)
-  photo: rock.jpg
+  photo: Baek.png
   info: Master (2019), Doctoral Course Student (2020. 03~ )
   email: 
   number_educ: 1
@@ -21,9 +21,9 @@
   education4:
 
 - name: 고수윤 (Su-yoon Ko)
-  photo: rock.jpg
+  photo: Koh_Soo_Yoon.jpg
   info: Master Course Student (2020.03~)
-  email: 
+  email: soo2135@pusan.ac.kr
   number_educ: 1
   education1: "Research Interests: Remote sensing of tidal flats; chlorophyll retrieval on substrate"
   education2: 
@@ -31,12 +31,12 @@
   education4:
 
 - name: 임태홍 (Taehong Lim)
-  photo: rock.jpg
+  photo: Taehong_Lim.jpg
   info: Integrated Doctoral Course Student (2021.09~)
-  email: 
-  number_educ: 1
+  email: taehong4584@gmail.com
+  number_educ: 2
   education1: "Research Interests: Remote sensing of shallow water; coralline flats; ocean color; hyperspectral"
-  education2:
+  education2: "Benthic mapping"
   education3:
   education4:
 
@@ -49,3 +49,64 @@
   education2:
   education3:
   education4:
+
+- name: 전기성 (Jeon Gi Seong)
+  photo: Jeon_Gi_Seong.jpg
+  info: Master Course Student
+  email: wjsks97@gmail.com
+  number_educ: 1
+  education1: 원격탐사기술을 활용한 적조탐지 알고리즘 개발
+  education2:
+  education3:
+  education4:
+
+- name: 이미희 (Mi Hee Lee) 
+  photo: Mi_Hee.png
+  info: Doctoral Course Student (2019. 09~ ), (현) 국토지리정보원 국토위성센터 연구사
+  email:
+  number_educ: 1
+  education1: "Research Interests:  Satellite remote sensing; change detection"
+  education2:
+  education3:
+  education4:
+
+- name: 김옥주 (Okju Kim)
+  photo: Okju.png
+  info: Doctoral Course Student (2019.09~ ), (현) 행정안전부 
+  email:
+  number_educ: 1
+  education1: "Research Interests: GIS; Disaster management"
+  education2:
+  education3:
+  education4:
+
+- name: 조광래
+  photo: CKL.png
+  info: Master Course Student (2019.09~), (현) 양산시청
+  email:
+  number_educ: 1
+  education1: "Research Interests: Coastal monitoring"
+  education2:
+  education3:
+  education4:
+
+- name: 김희수
+  photo: KHS.png
+  info: Master Course Student (2020.03~)
+  email:
+  number_educ: 1
+  education1: "Research Interests: 3D reconstruction; photogrammetry"
+  education2:
+  education3:
+  education4:
+
+- name: Ni Putu Praja Chintya
+  photo: rock.jpg
+  info: Doctoral Course Student (2021.09~ )
+  email:
+  number_educ: 1
+  education1: "Research Interests: Lidar-Optical fusion; digital twin; 3D-reconstruction of port facilities"
+  education2:
+  education3:
+  education4:
+
