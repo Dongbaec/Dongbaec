@@ -8,218 +8,351 @@
 #  highlight: 1
 #  news2:
 
-#- title: ""
-#  image: 
-#  description: 
-#  authors:  
-#  link:
-#    url: 
-#    display:  
-#  highlight: 0
-#  news2:
+- title: "Derivation and Evaluation of Satellite-Based Surface Current"
+  image: 
+  description: 
+  authors: Choi, J., Kim, W., Tran, H., & Park, Y. 
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fmars.2021.695780/full
+    display:  
+  highlight: 0
+  publisher: Frontiers in Marine Science
+  news2: 
 
+- title: "Assessing Net Growth of Phytoplankton Biomass on Hourly to Annual Timescales Using the Geostationary Ocean Color Instrument"
+  image: 
+  description: 
+  authors: Salisbury, J., Jonsson, B., Mannino, A., Kim, W., Goes, J., Choi, J., & Concha, J. 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL095528 
+    display:  
+  highlight: 0
+  publisher: Geophysical Research Letters. 
+  news2:
+
+- title: "A Preliminary Analysis on the Radiometric Difference Across the Level 1B Slot Images of GOCI-II. "
+  image: 
+  description: 
+  authors: Kim, W., Lim, T., Ahn, J., & Choi, J. 
+  link:
+    url: https://koreascience.kr/article/JAKO202131452663670.view?hide=breadcrumb
+    display:  
+  highlight: 0
+  publisher: Korean Journal of Remote Sensing, 37(5-2), 1269-1279.
+  news2:
+
+- title: "A Preliminary Study on Benthic Mapping of Uljin Coast Based on Airborne Hyperspectral Imagery Towards the Whitening Detection. "
+  image: 
+  description: 
+  authors: Kim, W., Kim, S. H., Baek, S. I., Kim, H., & Oh, J. 
+  link:
+    url: https://doi.org/10.2112/JCR-SI114-094.1
+    display:  
+  highlight: 0
+  publisher: Journal of Coastal Research, 114(sp1), 464-468. 
+  news2:
+
+- title: "Development of an Unmanned Aerial System for Maritime Environmental Observation."
+  image: 
+  description: 
+  authors: Jung, S., & Kim, W. 
+  link:
+    url: https://ieeexplore.ieee.org/document/9548101
+    display:  
+  highlight: 0
+  publisher: IEEE Access. 
+  news2:
+
+- title: "Generating Hard Examples for Pixel-wise Classification."
+  image: 
+  description: 
+  authors: Lee, H., Kwon, H., & Kim, W. 
+  link:
+    url: https://ieeexplore.ieee.org/document/9540376
+    display:  
+  highlight: 0
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 
+  news2:
+
+- title: "Spatial distribution of Culex mosquito abundance and associated risk factors in Hanoi, Vietnam. "
+  image: 
+  description: 
+  authors: Ha, T. V., Kim, W., Nguyen-Tien, T., Lindahl, J., Nguyen-Viet, H., Thi, N. Q., ... & Lee, H. S. 
+  link:
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009497
+    display:  
+  highlight: 0
+  publisher: PLOS Neglected Tropical Diseases, 15(6), e0009497. 
+  news2:
+
+- title: "Planar Installation Characteristics of Crown Depth-Variable Artificial Coral Reef on Improving Coastal Resilience: A 3D Large-Scale Experiment."
+  image: 
+  description: 
+  authors: Hong, S., Baek, S., Kim, Y., Lee, J., Prasetyo, A., Kim, W., & Kwon, S. 
+  link:
+    url: https://www.mdpi.com/2073-4441/13/11/1526
+    display:  
+  highlight: 0
+  publisher: Water, 13(11), 1526.
+  news2:
+
+- title: "Potential for offshore aquaculture development in North Korea: Focusing on Atlantic salmon farming. "
+  image: 
+  description: 
+  authors: Yi, S., & Kim, W. 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0308597X20302323
+    display:  
+  highlight: 0
+  publisher: Marine Policy, 119, 104092. 
+  news2:
+
+- title: "Morphological band registration of multispectral cameras for water quality analysis with unmanned aerial vehicle. "
+  image: 
+  description: 
+  authors: Kim, W., Jung, S., Moon, Y., & Mangum, S. C. 
+  link:
+    url: https://www.mdpi.com/2072-4292/12/12/2024
+    display:  
+  highlight: 0
+  publisher: Remote Sensing, 12(12), 2024. 
+  news2:
+
+- title: "Geostationary Ocean Color Imager (GOCI) marine fog detection in combination with Himawari-8 based on the decision tree. "
+  image: 
+  description: 
+  authors: Kim, D., Park, M. S., Park, Y. J., & Kim, W. 
+  link:
+    url: https://www.mdpi.com/2072-4292/12/1/149
+    display:  
+  highlight: 0
+  publisher: Remote Sensing, 12(1), 149. 
+  news2:
+
+- title: "A New Algorithm to Estimate Chlorophyll-A Concentrations in Turbid Yellow Sea Water Using a Multispectral Sensor in a Low-Altitude Remote Sensing System. "
+  image: 
+  description: 
+  authors: Baek, J. Y., Jo, Y. H., Kim, W., Lee, J. S., Jung, D., Kim, D. W., & Nam, J. 
+  link:
+    url: https://www.mdpi.com/2072-4292/11/19/2257
+    display:  
+  highlight: 0
+  publisher: Remote Sensing, 11(19), 2257. 
+  news2:
+
+- title: "Characterization of submesoscale turbulence in the east/japan sea using geostationary ocean color satellite images. "
+  image: 
+  description: 
+  authors: Choi, J., Park, Y. G., Kim, W., & Kim, Y. H. 
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL083892
+    display:  
+  highlight: 0
+  publisher: Geophysical Research Letters, 46(14), 8214-8223. 
+  news2:
 
 # Publications 에 적혀있는 내용.
 # highlight: 0 은 Full List로 들어가고 highlight: 1은 Highlights로 들어감
 # 둘의 차이는 사진이랑 설명이 같이 들어가느냐 마느냐 하는 것이다.
-- title: "Ensemble streamflow data assimilation using WRF-Hydro and DART: novel localization and inflation techniques applied to Hurricane Florence flooding"
-  image: Ensemble_streamflow.png
-  description: This study presents a general data assimilation framework that aims to improve flood predictions in channel routing models.
-  authors: El Gharamti, M., McCreight, J. L., Noh, S. J., Hoar, T. J., RafieeiNasab, A., Johnson, B. K.
-  link:
-    url: https://hess.copernicus.org/articles/25/5315/2021/
-    display:  EGU 25, 5315 (2021)
-  highlight: 1
-  news2:
-
-- title: "High-resolution modeling and prediction of urban floods using WRF-Hydro and data assimilation"
-  image: 
-  description: 
-  authors: Kim, S., Shen, H., Noh, S. J., Seo, D.-J. Welles, E., Pelgrim, E., Weerts, A., Lyons, E., Philips, B.
-  link:
-    url: https://doi.org/10.1016/j.jhydrol.2021.126236
-    display: Journal of Hydrology 598, 126236 (2021)
-  highlight: 0
-  news2:
-  
-- title: "Identification of Inundation Using Low-Resolution Images from Traffic-Monitoring Cameras: Bayes Shrink and Bayesian Segmentation"
-  image: 
-  description: 
-  authors: Wu, Y.C., Noh, S.J., Ham, S. 
-  link:
-    url: https://doi.org/10.3390/w12061725
-    display:  Water 12, 1725 (2020)
-  highlight: 0
-  news2:
-
-- title: "Improving Multisensor Precipitation Estimation via Adaptive Conditional Bias-Penalized Merging of Rain Gauge Data and Remotely-Sensed Quantitative Precipitation Estimates"
-  image: 
-  description: 
-  authors: Jozaghi, A., Nabatian, M., Noh, S. J., Seo, D.-J., Tang, L., Zhang, J. 
-  link:
-    url: https://doi.org/10.1175/JHM-D-19-0129.1
-    display:  Journal of Hydrometeorology 20, 2347 (2019)
-  highlight: 0
-  news2:
-  
-- title: "Improving flood forecasting using conditional bias-penalized ensemble Kalman filter"
-  image: 
-  description: 
-  authors: Lee, H., Shen, H., Noh, S. J., Kim, S., Seo, D.-J., Zhang, Y.  
-  link:
-    url: https://doi.org/10.1016/j.jhydrol.2019.05.072
-    display:  J. Hydrol. 575, 596 (2019)
-  highlight: 0
-  news2:
-  
-- title: "Retrospective dynamic inundation mapping of Hurricane Harvey flooding in the Houston metropolitan area using high-resolution modelling"
-  image: 
-  description: 
-  authors: Noh, S. J., Lee, H., Lee, S., Seo, D.-J. 
-  link:
-    url: https://doi.org/10.3390/w11030597
-    display: Water 11(3), 597 (2019)
-  highlight: 0
-  news2:
-  
-- title: "Toward parsimonious modeling of frequency of areal runoff from heavy-to-extreme precipitation in large urban areas under changing conditions: a derived moment approach"
-  image: 
-  description: 
-  authors: Norouzi, A., Habibi, H., Nazari, B., Noh, S. J., Seo, D.-J., Zhang, Y.
-  link:
-    url: https://doi.org/10.1007/s00477-019-01698-8
-    display: SERRA 33, 1263 (2019)
-  highlight: 0
-  news2:
-  
-- title: "High-Resolution Hydrologic Forecasting for Very Large Urban Areas"
-  image: 
-  description: 
-  authors: Habibi, H., Dasgupta, I., Noh, S. J., Kim, S., Zink, M., Seo, D.-J., Bartos, M., and Kerkez, B. 
-  link:
-    url: https://doi.org/10.2166/hydro.2019.100
-    display: Journal of Hydroinformatics 21(3), 441 (2019)
-  highlight: 0
-  news2:
-  
-- title: "Hyper-resolution 1D-2D urban flood modelling using LiDAR data and hybrid parallelization"
-  image: 
-  description: 
-  authors: Noh, S. J., Lee, J., Lee, S., Kawaike, K., Seo, D.-J.
-  link:
-    url: https://doi.org/10.1016/j.envsoft.2018.02.008
-    display: Environmental Modelling and Software 103, 131 (2018)
-  highlight: 0
-  news2:
-  
-- title: "Hybrid numerical scheme of Preissmann Slot Model for Transient Mixed Flows"
-  image: 
-  description: 
-  authors: An, H., Lee, S., Noh, S. J., Kim, Y., Noh, J.
-  link:
-    url: https://doi.org/10.3390/w10070899
-    display: Water 10(7), 899 (2018)
-  highlight: 0
-  news2:
-  
-- title: "Real-time assimilation of streamflow observations into a hydrologic routing model: Effects of model structures and updating methods"
-  image: 
-  description: 
-  authors: Mazzoleni, M., Noh, S. J.*, Lee, H., Liu, Y., Seo, D. J., Amaranto, A., Alfonso, L., Solomatine, D. P. 
-  link:
-    url: https://doi.org/10.1080/02626667.2018.1430898
-    display: Hydrological Sciences Journal 63, 385 (2018)
-  highlight: 0
-  news2:
-  
-- title: "Data assimilation in hydrologic routing: impact of model error and sensor placement on flood forecasting"
-  image: 
-  description: 
-  authors: Mazzoleni, M., Chacon-Hurtado, J, Noh, S. J., Seo, D.-J., Alfonso, L, Solomatine, D. 
-  link:
-    url: https://doi.org/10.1061/(ASCE)HE.1943-5584.0001656
-    display: J. Hydrol. Eng. 23(6), 1943 (2018)
-  highlight: 0
-  news2:
-  
-- title: "Improving multisensor estimation of heavy-to-extreme precipitation via conditional bias-penalized optimal estimation"
-  image: 
-  description: 
-  authors: Kim, B., Seo, D.-J., Noh, S. J., Prat, O. P., Nelson, B. R. 
-  link:
-    url: https://doi.org/10.1016/j.jhydrol.2016.10.052
-    display: J. Hydrol. 556, 1096 (2018)
-  highlight: 0
-  news2:
-  
-- title: "Merging Real-Time Channel Sensor Networks with Continental-Scale Hydrologic Models: A Data Assimilation Approach for Improving Accuracy in Flood Depth Predictions"
-  image: 
-  description: 
-  authors: Javaheri, A., Nabatian, M., Omranian, E., Babbar-Sebens, M., Noh, S. J. 
-  link:
-    url: https://doi.org/10.3390/hydrology5010009
-    display: Hydrology 5(1), 9 (2018)
-  highlight: 0
-  news2:
-  
-- title: "Flow vector analysis methods for a pressure sensor network on a steep hillslope"
-  image: 
-  description: 
-  authors: Gwak, Y., Kim, S., Lee, K., Noh, S. J., An, H. 
-  link:
-    url: https://doi.org/10.2136/vzj2016.12.0122
-    display: Vadose Zone Journal 16(8) (2017)
-  highlight: 0
-  news2:
-  
-- title: "Ensemble urban flood simulation in comparison with laboratory-scale experiments: Impact of interaction models for manhole, sewer pipe, and surface flow"
-  image: 
-  description: 
-  authors: Noh, S. J., Lee, S., An, H., Kawaike, K., Nakagawa, H. 
-  link:
-    url: https://doi.org/10.1016/j.advwatres.2016.08.015 
-    display: Adv. Water Resour. 97, 25 (2016)
-  highlight: 0
-  news2:
-  
-- title: "A weakly-constrained data assimilation approach to address rainfall-runoff model structural inadequacy in streamflow prediction"
-  image: 
-  description: 
-  authors: Lee, H., Seo, D.-J., Noh, S. J.  
-  link:
-    url: https://doi.org/10.1016/j.jhydrol.2016.09.009
-    display: J. Hydrol. 542, 373 (2016)
-  highlight: 0
-  news2:
-  
-- title: "Development of time-variant landslide-prediction software considering three-dimensional subsurface unsaturated flow"
-  image: 
-  description: 
-  authors: An, H., Viet, T., Lee, G., Kim, Y., Kim, M., Noh, S. J., Noh, J. 
-  link:
-    url: https://doi.org/10.1016/j.envsoft.2016.08.009
-    display: Environmental Modelling & Software 85, 172 (2016)
-  highlight: 0
-  news2:
-  
-- title: "Simulation of soil moisture on a hillslope using multiple hydrologic models in comparison to field measurements"
-  image: 
-  description: 
-  authors: Noh, S. J., An, H., Kim, S., Kim, H. J. 
-  link:
-    url: https://doi.org/10.1016/j.jhydrol.2015.01.047
-    display: J. Hydrol. 523, 342 (2015)
-  highlight: 0
-  news2:
-  
-- title: "Performance of a rain barrel sharing network under climate change"
-  image: 
-  description: 
-  authors: Noh, S. J., Chung, E. S., Seo, Y. 
-  link:
-    url: https://doi.org/10.3390/w7073466
-    display: Water 7, 3466 (2015)
-  highlight: 0
-  news2:
-
-# 21번 부터
+#- title: "Ensemble streamflow data assimilation using WRF-Hydro and DART: novel localization and inflation techniques applied to Hurricane Florence flooding"
+#  image: Ensemble_streamflow.png
+#  description: This study presents a general data assimilation framework that aims to improve flood predictions in channel routing models.
+# authors: El Gharamti, M., McCreight, J. L., Noh, S. J., Hoar, T. J., RafieeiNasab, A., Johnson, B. K.
+#  link:
+#    url: https://hess.copernicus.org/articles/25/5315/2021/
+#    display:  EGU 25, 5315 (2021)
+#  highlight: 1
+#  news2:
+#
+#- title: "High-resolution modeling and prediction of urban floods using WRF-Hydro and data assimilation"
+#  image: 
+#  description: 
+#  authors: Kim, S., Shen, H., Noh, S. J., Seo, D.-J. Welles, E., Pelgrim, E., Weerts, A., Lyons, E., Philips, B.
+#  link:
+#    url: https://doi.org/10.1016/j.jhydrol.2021.126236
+#    display: Journal of Hydrology 598, 126236 (2021)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Identification of Inundation Using Low-Resolution Images from Traffic-Monitoring Cameras: Bayes Shrink and Bayesian Segmentation"
+#  image: 
+#  description: 
+#  authors: Wu, Y.C., Noh, S.J., Ham, S. 
+#  link:
+#    url: https://doi.org/10.3390/w12061725
+#    display:  Water 12, 1725 (2020)
+#  highlight: 0
+#  news2:
+#
+#- title: "Improving Multisensor Precipitation Estimation via Adaptive Conditional Bias-Penalized Merging of Rain Gauge Data and Remotely-Sensed Quantitative Precipitation Estimates"
+#  image: 
+#  description: 
+#  authors: Jozaghi, A., Nabatian, M., Noh, S. J., Seo, D.-J., Tang, L., Zhang, J. 
+#  link:
+#    url: https://doi.org/10.1175/JHM-D-19-0129.1
+#    display:  Journal of Hydrometeorology 20, 2347 (2019)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Improving flood forecasting using conditional bias-penalized ensemble Kalman filter"
+#  image: 
+#  description: 
+#  authors: Lee, H., Shen, H., Noh, S. J., Kim, S., Seo, D.-J., Zhang, Y.  
+#  link:
+#    url: https://doi.org/10.1016/j.jhydrol.2019.05.072
+#    display:  J. Hydrol. 575, 596 (2019)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Retrospective dynamic inundation mapping of Hurricane Harvey flooding in the Houston metropolitan area using high-resolution modelling"
+#  image: 
+#  description: 
+#  authors: Noh, S. J., Lee, H., Lee, S., Seo, D.-J. 
+#  link:
+#    url: https://doi.org/10.3390/w11030597
+#    display: Water 11(3), 597 (2019)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Toward parsimonious modeling of frequency of areal runoff from heavy-to-extreme precipitation in large urban areas under changing conditions: a derived moment approach"
+#  image: 
+#  description: 
+#  authors: Norouzi, A., Habibi, H., Nazari, B., Noh, S. J., Seo, D.-J., Zhang, Y.
+#  link:
+#    url: https://doi.org/10.1007/s00477-019-01698-8
+#    display: SERRA 33, 1263 (2019)
+#  highlight: 0
+#  news2:
+#  
+#- title: "High-Resolution Hydrologic Forecasting for Very Large Urban Areas"
+#  image: 
+#  description: 
+#  authors: Habibi, H., Dasgupta, I., Noh, S. J., Kim, S., Zink, M., Seo, D.-J., Bartos, M., and Kerkez, B. 
+#  link:
+#    url: https://doi.org/10.2166/hydro.2019.100
+#    display: Journal of Hydroinformatics 21(3), 441 (2019)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Hyper-resolution 1D-2D urban flood modelling using LiDAR data and hybrid parallelization"
+#  image: 
+#  description: 
+#  authors: Noh, S. J., Lee, J., Lee, S., Kawaike, K., Seo, D.-J.
+#  link:
+#    url: https://doi.org/10.1016/j.envsoft.2018.02.008
+#    display: Environmental Modelling and Software 103, 131 (2018)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Hybrid numerical scheme of Preissmann Slot Model for Transient Mixed Flows"
+#  image: 
+#  description: 
+#  authors: An, H., Lee, S., Noh, S. J., Kim, Y., Noh, J.
+#  link:
+#    url: https://doi.org/10.3390/w10070899
+#    display: Water 10(7), 899 (2018)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Real-time assimilation of streamflow observations into a hydrologic routing model: Effects of model structures and updating methods"
+#  image: 
+#  description: 
+#  authors: Mazzoleni, M., Noh, S. J.*, Lee, H., Liu, Y., Seo, D. J., Amaranto, A., Alfonso, L., Solomatine, D. P. 
+#  link:
+#    url: https://doi.org/10.1080/02626667.2018.1430898
+#    display: Hydrological Sciences Journal 63, 385 (2018)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Data assimilation in hydrologic routing: impact of model error and sensor placement on flood forecasting"
+#  image: 
+#  description: 
+#  authors: Mazzoleni, M., Chacon-Hurtado, J, Noh, S. J., Seo, D.-J., Alfonso, L, Solomatine, D. 
+#  link:
+#    url: https://doi.org/10.1061/(ASCE)HE.1943-5584.0001656
+#    display: J. Hydrol. Eng. 23(6), 1943 (2018)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Improving multisensor estimation of heavy-to-extreme precipitation via conditional bias-penalized optimal estimation"
+#  image: 
+#  description: 
+#  authors: Kim, B., Seo, D.-J., Noh, S. J., Prat, O. P., Nelson, B. R. 
+#  link:
+#    url: https://doi.org/10.1016/j.jhydrol.2016.10.052
+#    display: J. Hydrol. 556, 1096 (2018)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Merging Real-Time Channel Sensor Networks with Continental-Scale Hydrologic Models: A Data Assimilation Approach for Improving Accuracy in Flood Depth Predictions"
+#  image: 
+#  description: 
+#  authors: Javaheri, A., Nabatian, M., Omranian, E., Babbar-Sebens, M., Noh, S. J. 
+#  link:
+#    url: https://doi.org/10.3390/hydrology5010009
+#    display: Hydrology 5(1), 9 (2018)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Flow vector analysis methods for a pressure sensor network on a steep hillslope"
+#  image: 
+#  description: 
+#  authors: Gwak, Y., Kim, S., Lee, K., Noh, S. J., An, H. 
+#  link:
+#    url: https://doi.org/10.2136/vzj2016.12.0122
+#    display: Vadose Zone Journal 16(8) (2017)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Ensemble urban flood simulation in comparison with laboratory-scale experiments: Impact of interaction models for manhole, sewer pipe, and surface flow"
+#  image: 
+#  description: 
+#  authors: Noh, S. J., Lee, S., An, H., Kawaike, K., Nakagawa, H. 
+#  link:
+#    url: https://doi.org/10.1016/j.advwatres.2016.08.015 
+#    display: Adv. Water Resour. 97, 25 (2016)
+#  highlight: 0
+#  news2:
+#  
+#- title: "A weakly-constrained data assimilation approach to address rainfall-runoff model structural inadequacy in streamflow prediction"
+#  image: 
+#  description: 
+#  authors: Lee, H., Seo, D.-J., Noh, S. J.  
+#  link:
+#    url: https://doi.org/10.1016/j.jhydrol.2016.09.009
+#    display: J. Hydrol. 542, 373 (2016)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Development of time-variant landslide-prediction software considering three-dimensional subsurface unsaturated flow"
+#  image: 
+#  description: 
+#  authors: An, H., Viet, T., Lee, G., Kim, Y., Kim, M., Noh, S. J., Noh, J. 
+#  link:
+#    url: https://doi.org/10.1016/j.envsoft.2016.08.009
+#    display: Environmental Modelling & Software 85, 172 (2016)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Simulation of soil moisture on a hillslope using multiple hydrologic models in comparison to field measurements"
+#  image: 
+#  description: 
+#  authors: Noh, S. J., An, H., Kim, S., Kim, H. J. 
+#  link:
+#    url: https://doi.org/10.1016/j.jhydrol.2015.01.047
+#    display: J. Hydrol. 523, 342 (2015)
+#  highlight: 0
+#  news2:
+#  
+#- title: "Performance of a rain barrel sharing network under climate change"
+#  image: 
+#  description: 
+#  authors: Noh, S. J., Chung, E. S., Seo, Y. 
+#  link:
+#    url: https://doi.org/10.3390/w7073466
+#    display: Water 7, 3466 (2015)
+#  highlight: 0
+#  news2:
+#
+## 21번 부터
+###

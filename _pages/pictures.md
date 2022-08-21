@@ -29,7 +29,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<a href =  "{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" target = "_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" /></a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

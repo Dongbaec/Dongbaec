@@ -1,5 +1,5 @@
 ---
-title: "QUREOS Lab - Vacancies"
+title: "QUREOS Lab - Contact"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

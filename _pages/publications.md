@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=Q0Z_uB8AAAAJ&hl=en), [ResearcherID](https://publons.com/researcher/1296422/seong-jin-noh/))
+<!--(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=Q0Z_uB8AAAAJ&hl=en), [ResearcherID](https://publons.com/researcher/1296422/seong-jin-noh/))-->
 
 To be updated soon..
 
@@ -35,6 +35,7 @@ To be updated soon..
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p>{{ publi.publisher }}</p>
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
@@ -61,9 +62,9 @@ To be updated soon..
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <em>{{ publi.authors }}</em> <br />
+  <a href="{{ publi.link.url }}" target =>{{ publi.title }}</a><br/>
+  {{ publi.publisher }}<br/>
 {% endfor %}
 
 To be updated soon..

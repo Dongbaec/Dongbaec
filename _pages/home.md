@@ -10,7 +10,7 @@ permalink: /
 <!--[금오공과대학교](https://www.kumoh.ac.kr) [토목공학과](https://civil.kumoh.ac.kr) **수문학연구실 (Noh Lab)**에서는 기후변화로 인해 인류에게 직접적인 영향을 미치는 홍수, 가뭄 등 물 문제에 대한 분석 및 해결 방법에 대해 연구합니다.-->
 <!--가장 앞에 오는 머릿말-->
 
-[부산대학교](https://www.pusan.ac.kr/kor/Main.do) [건설융합학부 토목공학 전공](https://civil.pusan.ac.kr/civil/index.do) 
+[부산대학교](https://www.pusan.ac.kr/kor/Main.do) [사회환경시스템 공학과](https://his.pusan.ac.kr/pnuenvEng/index.do) 
 
 **QUREOS**(Lab for Quantitative Remote Sensing) 정량적 원격탐사 연구실
 
@@ -77,8 +77,11 @@ QUREOS conducts in-depth research on quantitative retrieval of geo-physical vari
 5. **멀티센서 수문 관측 (Measurement and analysis hydrologic variables using Multi-sensors)** : Utilization and analysis of multiple sensors to measure hydrologic variables from precipitation to soil moisture to streamflow
 -->
 
-<h3 style = "font-size: 30px; margin-top:40px;"> QUREOS Lab 가입 Joining QUREOS Lab </h3>
-If you are interested in joining please go to the [contact](contact) page.
+<h3 style = "font-size: 30px; margin-top:40px;">  How to join QUREOS?</h3>
+Anyone who has passion and enthusiasm for the quantitative remote sensing can contact QUREOS.
+
+원격탐사 및 사진측량을 더 알기 원하는 분들은 주저하지 말고 연락바랍니다. <br/>대학원에 관심있는 분은 담당교수에게 연락바랍니다.<br/> 학부연구생도 모집중이니 연락바랍니다.<br/>you are interested in joining please go to the [contact](contact) page.<br/><br/>
+
 
 <!--
 <h3 style = "font-size:30px; margin-top:40px;"> 연구비 지원 Funding </h3>
