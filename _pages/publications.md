@@ -63,7 +63,7 @@ To be updated soon..
 {% for publi in site.data.publist %}
 
   <em>{{ publi.authors }}</em> <br />
-  <a href="{{ publi.link.url }}" target =>{{ publi.title }}</a><br/>
+  <a href="{{ publi.link.url }}" target = "_blank">{{ publi.title }}</a><br/>
   {{ publi.publisher }}<br/>
 {% endfor %}
 
